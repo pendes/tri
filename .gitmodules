@@ -1,0 +1,6 @@
+[submodule "tri_api"]
+	path = tri_api
+	url = https://github.com/pendes/tri_api.git
+[submodule "tri_web"]
+	path = tri_web
+	url = https://github.com/pendes/tri_web.git
